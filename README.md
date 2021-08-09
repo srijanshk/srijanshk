@@ -40,7 +40,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=srijanshk)
  
 ### Top Technologies
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Nextjs Badge](https://img.shields.io/badge/-nextjs-000?style=for-the-badge&labelColor=white&logo=nextjs&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Python Badge](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&labelColor=black&logo=python)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Nextjs Badge](https://img.shields.io/badge/-nextjs-000?style=for-the-badge&labelColor=white&logo=nextjs&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
 <br />
 ### Languages and Tools
