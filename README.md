@@ -55,7 +55,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijanshk&show_icons=true&locale=en&layout=compact" alt="srijanshk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijanshk&show_icons=true&locale=en" alt="srijanshk" width="410" /></p>
-
-<hr>
-
-<hr>
